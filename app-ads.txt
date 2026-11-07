@@ -1,3 +1,5 @@
+# Google AdMob direct publisher
+google.com, pub-5702813849924478, DIRECT, f08c47fec0942fa0
 # Unity dashboard recommended entries, captured 2026-10-25. Merge with the existing app-ads.txt; do not replace existing entries.
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appads.in, 106246, RESELLER
